@@ -1,3 +1,8 @@
+22IT2 Nguyễn Minh Long BIT220100
+
+![image](https://github.com/user-attachments/assets/3cd6a63d-5048-4c9a-945d-2de11bee9d48)
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
